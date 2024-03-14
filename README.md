@@ -1,16 +1,15 @@
-### Hi there 👋
+## i30101
+<p>Trying to find the best VSCode theme... right now on Tokyo Night Storm but the search goes on. Just another Python fan.</p>
 
-<!--
-**i30101/i30101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools and Languages
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=CoffeeScript&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Browsersync-informational?style=flat&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=Latex&logoColor=white&color=teal)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current I'm:
+- Working on a water quality prediction model
+- Planning on revamping the Woodson Science Olympiad website
