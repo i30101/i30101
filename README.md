@@ -1,7 +1,6 @@
 ## i30101
 <p>Science Olympian and Python enthusiast. Searching for the perfect VSCode theme...</p>
 <br>
-<br>
 
 ## Tools and Languages
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -28,7 +27,7 @@
 <br>
 
 ## Stats
-![Language Use Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i30101&langs_count=5)
+![Language Use Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i30101&langs_count=3)
 <br>
 <br>
 
