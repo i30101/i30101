@@ -28,6 +28,7 @@
 
 ## Stats
 ![Language Use Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i30101&langs_count=3)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=i30101)
 <br>
 <br>
 
