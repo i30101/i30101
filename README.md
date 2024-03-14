@@ -1,5 +1,7 @@
 ## i30101
 <p>Science Olympian and Python enthusiast. Searching for the perfect VSCode theme...</p>
+<br>
+
 
 ## Tools and Languages
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -22,6 +24,12 @@
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+<br>
+
+
+## Stats
+![Language Use Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i30101&langs_count=5)
+<br>
 
 ## Currently I'm:
 - Working on a water quality prediction model
