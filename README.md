@@ -1,5 +1,5 @@
 ## i30101
-<p>Science Olympiad and avid Python Fan. Searching for the perfect VSCode theme...</p>
+<p>Science Olympian and Python enthusiast. Searching for the perfect VSCode theme...</p>
 
 ## Tools and Languages
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
