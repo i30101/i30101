@@ -33,6 +33,6 @@
 
 
 ## Currently I'm:
-- Working on a water quality prediction model
-- Planning on revamping the Woodson Science Olympiad website
-- Using Tokyo Night Storm and Material Theme Palenight
+- Working on a water quality prediction model 💧
+- Planning on revamping the Woodson Science Olympiad website 🧪
+- Using Tokyo Night Storm and Material Theme Palenight 🌙
