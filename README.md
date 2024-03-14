@@ -9,6 +9,9 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=CoffeeScript&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Browsersync-informational?style=flat&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=Latex&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
+
 
 ## Current I'm:
 - Working on a water quality prediction model
