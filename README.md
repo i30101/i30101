@@ -27,7 +27,7 @@
 <br>
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i30101&langs_count=5&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i30101&langs_count=4" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i30101" /></p>
 <br>
 <br>
