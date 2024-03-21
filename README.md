@@ -1,7 +1,5 @@
 ![Header](https://github.com/i30101/i30101/blob/2f05845efa776dd86b4a201e14ed1426e911e0d9/banner.png)
 
-
-## i30101
 <p>Science Olympian and Python enthusiast. Searching for the perfect VSCode theme...</p>
 <br>
 
