@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/i30101/i30101/blob/30ea33dd8af5f556b309dc3a206e9621f866c72c/banner.png)
 
 <p>Science Olympian and Python enthusiast. Searching for the perfect VSCode theme...</p>
 <br>
