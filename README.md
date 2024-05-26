@@ -35,6 +35,11 @@
 <br>
 <br>
 
+## Profile Views
+![Visitor Count](https://profile-counter.glitch.me/sooswastaken/count.svg)
+<br>
+<br>
+
 
 ## Currently I'm:
 - Working on a water quality prediction model 💧
