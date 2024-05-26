@@ -36,7 +36,7 @@
 <br>
 
 ## Profile Views
-![Visitor Count](https://profile-counter.glitch.me/sooswastaken/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/i30101/count.svg)
 <br>
 <br>
 
