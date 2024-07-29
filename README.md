@@ -33,7 +33,7 @@
 ## Stats
 <p><img align="left" height=200px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i30101&langs_count=7&layout=compact&theme=dark" /></p>
 <p><img align="center" height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=i30101&theme=dark" /></p>
-<p><img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=i30101&theme=merko"</p>
+<p><img width="880px" src="https://github-readme-activity-graph.vercel.app/graph?username=i30101&theme=merko"</p>
 <br>
 <br>
 
