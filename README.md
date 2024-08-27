@@ -49,4 +49,4 @@
 ## Currently I'm:
 - Working on a water quality prediction model 💧
 - Revamping the Woodson Science Olympiad website 🧪
-- Using Tokyo Night and Material Theme Palenight 🌙
+- Using and Material Deep Ocean and Material Palenight themes 🌙
