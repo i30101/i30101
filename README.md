@@ -52,6 +52,5 @@
 
 
 ## Currently I'm:
-- Working on a water quality prediction model 💧
-- Revamping the Woodson Science Olympiad website 🧪
+- Working on an ice crystal analysis software ❄️
 - Using and Material Deep Ocean and Material Palenight themes 🌙
