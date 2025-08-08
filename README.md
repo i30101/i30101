@@ -1,6 +1,6 @@
 ![Header](https://github.com/i30101/i30101/blob/30ea33dd8af5f556b309dc3a206e9621f866c72c/banner.png)
 
-<p>Computer science major @ UPenn | Software engineer at U.S. Naval Research Laboratory</p>
+<p>Computer science major @ UPenn | Software engineer @ U.S. Naval Research Laboratory</p>
 <br>
 
 ## Tools and Languages
