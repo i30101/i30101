@@ -53,4 +53,4 @@
 
 ## Currently I'm:
 - Working on an ice crystal analysis software ❄️
-- Using and Material Deep Ocean and Material Palenight themes 🌙
+- Using Material Deep Ocean and Material Palenight themes 🌙
